@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/RaftTest.dir/unit/buffer.cxx.o -o RaftTest  -Wl,-rpath,/home/virtualplatform/SDN/Controller/Distribute/test /home/virtualplatform/SDN/Controller/Distribute/test/libRaftLib.so 
